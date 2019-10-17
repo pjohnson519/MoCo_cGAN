@@ -8,4 +8,4 @@ This model is based off pix2pix
 PM Johnson, M Drangova. Conditional generative adversarial network for three-dimensional rigid-body motion correction in MRI,
 Magnetic Reson Med, 2019
 
-based off the Unet model from https://github.com/pietz/unet-keras/blob/master/unet.py
+based off the Unet model from https://github.com/pietz/unet-keras/blob/master/unet.py and patchGAN from https://github.com/williamFalcon/pix2pix-keras/blob/master/pix2pix/utils/patch_utils.py
